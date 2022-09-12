@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    justify-content: center;
+    padding: 0;
+    text-align: center;
+}
+body {
+    background-color: pink;
+}
+
+#wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+    
+#tytul {
+    background-color: white;
+    color: black;
+    place-items: center;
+    display: grid;
+    height: 3vh;
+}
+#strona {
+    display: grid;
+    place-items: center;
+    height: 97vh;
+}
+#kolor {
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+#przycisk {
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+
+}
+
